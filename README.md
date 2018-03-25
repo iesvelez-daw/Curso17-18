@@ -1,8 +1,6 @@
 # Curso 17-18
-Listado de alumnado del Curso 17-18
 
-
-## GitHub de alumnado
+## Listado de alumnado
 
 - [Alaya Muñoz, Juan Manuel](https://github.com/JMTR25) `JMTR25`
 - [Álvarez-Ossorio Martín, Rafael](https://github.com/raom30) `raom30` 
