@@ -4,7 +4,7 @@ Listado de alumnado del Curso 17-18
 
 ## GitHub de alumnado
 
-- [Alaya Muñoz, Juan Manuel](https://github.com/JMTR25) [JMTR25]
+- [Alaya Muñoz, Juan Manuel](https://github.com/JMTR25) `JMTR25`
 - [Álvarez-Ossorio Martín, Rafael](https://github.com/raom30)
 - [Atenciano Rodríguez, Daniel](https://github.com/daniatenciano)
 - [Bermudo Delgado, Juan de Dios](https://github.com/ezxioj87)
