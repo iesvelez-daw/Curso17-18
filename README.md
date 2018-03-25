@@ -2,7 +2,7 @@
 
 ## Listado de alumnado
 
-- [Alaya Muñoz, Juan Manuel](https://github.com/JMTR25) `JMTR25`
+- [Alaya Muñoz, Juan Manuel](https://github.com/JMTR25) :information_source: `JMTR25`
 - [Álvarez-Ossorio Martín, Rafael](https://github.com/raom30) `raom30` 
 - [Atenciano Rodríguez, Daniel](https://github.com/daniatenciano) `daniatenciano`
 - [Bermudo Delgado, Juan de Dios](https://github.com/ezxioj87) `ezxioj87`
